@@ -1,0 +1,15 @@
+build/
+build-*/
+
+*.user
+*.user.*
+
+*.exe
+*.o
+*.obj
+*.dll
+
+*.autosave
+
+doc/html/
+doc/latex/
