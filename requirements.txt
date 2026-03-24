@@ -1,0 +1,5 @@
+- System operacyjny: Windows 10/11
+- Środowisko: Qt 6.5+ (Network, Test)
+- Kompilator: MinGW
+- AI: Ollama (localhost:11434)
+- Model: llama3
